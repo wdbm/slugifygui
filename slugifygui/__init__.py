@@ -40,7 +40,7 @@ options:
 """
 
 name        = "slugifygui"
-__version__ = "2018-08-20T1216Z"
+__version__ = "2019-01-29T1633Z"
 
 import docopt
 import logging

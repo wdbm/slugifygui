@@ -7,7 +7,7 @@ import setuptools
 def main():
     setuptools.setup(
         name                 = "slugifygui",
-        version              = "2018.08.20.1216",
+        version              = "2019.01.29.1633",
         description          = "graphical user interface to slugify text",
         long_description     = long_description(),
         url                  = "https://github.com/wdbm/slugifygui",
